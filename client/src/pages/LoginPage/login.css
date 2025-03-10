@@ -1,0 +1,19 @@
+.login-container{
+    border: 2px solid gray;
+    width: 550px;
+    height: 600px;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+
+.login-header{
+    color: teal;
+}
+
+.login-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 60%;
+}
